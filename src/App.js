@@ -1,6 +1,6 @@
 import './App.css';
 import './css/style.css';
-import React, { useState, useEffect, } from 'react';
+import React, { useState, useEffect } from 'react';
 
 function App() {
   const [value1, setValue] = useState("");
